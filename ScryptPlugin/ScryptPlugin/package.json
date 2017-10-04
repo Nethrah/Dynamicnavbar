@@ -1,0 +1,31 @@
+{
+  "name": "ScryptPlugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-scrypt",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nethrah/Dynamicnavbar.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nethrah/Dynamicnavbar/issues"
+  },
+  "homepage": "https://github.com/Nethrah/Dynamicnavbar#readme"
+}
